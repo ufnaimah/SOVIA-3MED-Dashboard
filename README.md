@@ -1,4 +1,5 @@
-# 🌍 SOVIA-3MED Dashboard
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a35245be-6f1f-4c4b-a9aa-d64e9fc7e0cf" /># 🌍 SOVIA-3MED Dashboard
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/68df7eaa-e4d8-4e2e-83bd-5c2393157bc3" />
 
 ## Deskripsi
 **SOVIA-3MED Dashboard** (Social Vulnerability Analysis – Mitigasi, Evakuasi, dan Dampak) adalah aplikasi interaktif berbasis **R Shiny** yang dirancang untuk menganalisis kerentanan sosial terhadap bencana alam di Indonesia. Menggunakan data **SUSENAS 2017** dan data spasial Indonesia, dashboard ini membantu pembuat kebijakan dan peneliti:
@@ -10,6 +11,8 @@
 📌 Proyek ini merupakan tugas Ujian Akhir Semester (UAS) mata kuliah **Komputasi Statistik** di **Politeknik Statistika STIS** oleh *Nur Na'imah Ma'ruf*.
 
 ---
+
+Link dapat diakses melalui https://kmfotw-nur-na0imah0ma0ruf.shinyapps.io/SOVIA3MED/
 
 ## 🎯 Fitur Utama
 
