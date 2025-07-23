@@ -1,0 +1,13 @@
+name: SOVIA3MED
+title: SOVIA3MED
+username: kmfotw-nur-na0imah0ma0ruf
+account: kmfotw-nur-na0imah0ma0ruf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15111682
+bundleId: 10659055
+url: https://kmfotw-nur-na0imah0ma0ruf.shinyapps.io/SOVIA3MED/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/geoindonesia.geojson
